@@ -16,3 +16,5 @@ This library was tested on a Raspberry Pi Pico. If you have issues reading data 
 * Assure that your power supply is supplying enough current/voltage.
 * Check your pull up resistors.
 * Use SoftI2C instead.
+
+I will add more info as soon as possible. For now you can play with the script, I tried to make everything as readable as possible.
