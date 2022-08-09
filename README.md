@@ -1,5 +1,5 @@
 # Simple-Micropython-MLX90614-Library
-A simple yet usable library for MLX90614 using Micropython. 
+A simple yet functional library for MLX90614 using Micropython. 
 
 This library can be use to interface, configure, and read data from MLX90614 IR temperature sensors. This library is by no means optimized, it's written to be as readable as possible for new programmers. It is functional, but is not yet fully debugged, nor optimized. Use AS IS, I'm not resposible of any damages, misconfigurations, or anything caused by the use of this code. Use at your own risk. 
 
